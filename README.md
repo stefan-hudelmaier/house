@@ -1,3 +1,3 @@
-## Solar Modules on my house
+## Solar Modules on our house
 
-![Solar Modules on my house](house_smaller.jpg)
+![Solar Modules on our house](house_smaller.jpg)
