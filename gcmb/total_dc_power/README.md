@@ -1,4 +1,4 @@
-## DC Power
+## DC Power2
 
 This is the DC power: <Topic topic="total_dc_power" /> 
 
