@@ -1,3 +1,3 @@
-This is the DC power. It gets pulled via Modbus from the
+This is the DC power: <Topic topic="total_dc_power" /> It gets pulled via Modbus from the
 Sungrow converters.
 
