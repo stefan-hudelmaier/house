@@ -1,6 +1,6 @@
 ## Inverters
 
-Here are the inverters:
+Here are the inverters
 
 ### Inverter 1
 
