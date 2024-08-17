@@ -16,7 +16,7 @@ Since installation, the total PV generation is <Topic topic="total_pv_generation
 
 ### Inverters
 
-More info on the inverters can be found [here](./inverters).
+More info on the inverters can be found [here](./inverters)
 
 ### Solar Panels
 
@@ -32,4 +32,4 @@ These are the solar panels:
 
 ### Battery
 
-We have a battery with 16 kWh capacity. More info can be found [here](./battery).
+We have a battery with 16 kWh capacity. More info can be found [here](./battery)
