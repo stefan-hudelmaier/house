@@ -2,18 +2,21 @@
 
 Since 07/2024 we have solar modules on our house.
 
-### Daily exported energy
-Today, <Topic topic="daily_exported_energy" /> kWh have been exported to the grid.
+### Power currently exported to the Grid
 
-### Total exported energy
+Currently <Topic topic="export_power_raw" W are exported to the grid.
 
-Total PV generation is <Topic topic="total_pv_generation" /> kWh
+### Exported energy today
+
+Today, <Topic topic="daily_exported_energy" /> kWh have been exported to the grid in total.
+
+### Total power generated
+
+Since installation, the total PV generation is <Topic topic="total_pv_generation" /> kWh
 
 ### Inverters
 
-More info on the inverters can be found here:
-
-[Inverters](./inverters)
+More info on the inverters can be found [here](./inverters).
 
 ### Solar Panels
 
@@ -26,3 +29,7 @@ These are the solar panels:
 #### West
 
 ![West](house_west.jpg)
+
+### Battery
+
+We have a battery with 16 kWh capacity. More info can be found [here](./battery).
