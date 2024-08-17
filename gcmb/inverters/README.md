@@ -12,4 +12,4 @@ Current power: <Topic topic="inverters/inv1_total_dc_power" /> W
 
 Current power: <Topic topic="inverters/inv2_total_dc_power" /> W
 
-![Inverter 2](inverter2.jpg)
+![Inverter 2](inverter2_.jpg)
