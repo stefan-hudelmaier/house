@@ -4,15 +4,15 @@ Since 07/2024 we have solar modules on our house.
 
 ### Power currently exported to the Grid
 
-Currently <Topic topic="export_power_raw" /> W are exported to the grid.
+Currently <Topic topic="stefan/house/export_power_raw" /> W are exported to the grid.
 
 ### Exported energy today
 
-Today, <Topic topic="daily_exported_energy" /> kWh have been exported to the grid in total.
+Today, <Topic topic="stefan/house/daily_exported_energy" /> kWh have been exported to the grid in total.
 
 ### Total power generated
 
-Since installation, the total PV generation is <Topic topic="total_pv_generation" /> kWh
+Since installation, the total PV generation is <Topic topic="stefan/house/total_pv_generation" /> kWh
 
 ### Inverters
 
