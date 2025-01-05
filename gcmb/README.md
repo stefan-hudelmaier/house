@@ -2,6 +2,10 @@
 
 Since 07/2024 we have solar modules on our house.
 
+### Overview
+
+<Svg src="./energy-system.svg" />
+
 ### Power currently exported to the Grid
 
 Currently <Topic topic="stefan/house/export_power_raw" /> W are exported to the grid.
@@ -33,3 +37,12 @@ These are the solar panels:
 ### Battery
 
 We have a battery with 16 kWh capacity. More info can be found [here](./battery).
+
+### Icon Attribution for SVG
+
+The above SVG contains the following icons:
+
+* "Solar Panel" icon by Best Mons from [Noun Project](https://thenounproject.com/browse/icons/term/Solar+panel)
+* "Battery" icon by YANDI RS from [Noun Project](https://thenounproject.com/browse/icons/term/battery)
+* "House" icon by Candy Design from [Noun Project](https://thenounproject.com/browse/icons/term/house)
+* "Power Line" icon by Dmitry Vasiliev from [Noun Project](https://thenounproject.com/browse/icons/term/power-line)
