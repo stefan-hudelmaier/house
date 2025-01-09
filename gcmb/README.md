@@ -1,6 +1,6 @@
 ## Our Solar Installation
 
-Since 07/2024 we have solar modules on our house. The installation was done by
+Since 07/2024 we have solar modules on our house. The installation was done by 
 
 [![1komma5grad](1komma5grad-scaled.png)](https://1komma5.com/)
 
