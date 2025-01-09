@@ -8,7 +8,8 @@ Since 07/2024 we have solar modules on our house.
 
 ### Power currently exported to the Grid
 
-Currently <Topic topic="stefan/house/export_power_raw" /> W are exported to the grid.
+Currently <Topic topic="stefan/house/export_power_raw" /> W are exported to the grid (a negative number
+means that power is imported from the grid).
 
 ### Exported energy today
 

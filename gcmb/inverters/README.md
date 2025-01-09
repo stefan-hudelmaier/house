@@ -14,5 +14,3 @@ Current power: <Topic topic="stefan/house/inverters/inv2_total_dc_power" /> W
 
 ![Inverter 2](inverter2.jpg)
 
-
-[subpage](./subpage)
